@@ -25,3 +25,27 @@ header ul {
     margin-left: 20px;
 } 
 
+header li {
+    margin-left: 20px;
+} 
+
+section {
+    height: 100vh;
+    border: 1px solid black;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+
+}  
+
+#hero .profile-img { 
+    width: 300px; 
+    border-radius: 50%;
+
+}
+
+footer {
+    text-align: center; 
+    padding: 50px;
+}
